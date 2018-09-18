@@ -1,6 +1,8 @@
 # awesome codeofconduct
 
-A collection of awesome codes of conduct.
+A Darwinian collection of awesome codes of conduct which value productivity, quality and results over pandering to the feelings of the lowest common denominator.
+
+If you use any of these codes of conduct and would like to have your source code, tech conference or related project published here, provide a relevant link [in this issue thread](https://github.com/nathanchere/awesome_codeofconduct/issues/1).
 
 ## Code of Coding
 
