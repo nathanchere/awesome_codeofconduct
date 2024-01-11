@@ -13,7 +13,7 @@ If you use any of these codes of conduct and would like to have your source code
 [[git.kernel.org](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/plain/Documentation/CodeOfConflict?id=ddbd2b7ad99a418c60397901a0f3c997d030c65e)] [[Linux Kernel Documentation](https://www.kernel.org/doc/html/v4.17/process/code-of-conflict.html)] [[Local](https://github.com/nathanchere/awesome_codeofconduct/blob/master/code_of_conflict/CodeOfConflict)]
 
 ## Code of Merit
-[[GitHub](https://github.com/rosarior/Code-of-Merit)] [[Web](http://code-of-merit.org/)] [[Local](https://github.com/nathanchere/awesome_codeofconduct/blob/master/code_of_merit/CODE_OF_MERIT.md)]
+[[GitHub](https://github.com/Aspie96/Code-of-Merit)] [[Local](https://github.com/nathanchere/awesome_codeofconduct/blob/master/code_of_merit/CODE_OF_MERIT.md)]
 
 ## NCoC (No Code of Conduct)
 
